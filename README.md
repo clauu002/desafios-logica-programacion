@@ -49,6 +49,9 @@ let nombre = prompt('Digite su nombre');
 let edad = prompt('Digite su edad');
 ```
 
+![_](https://github.com/user-attachments/assets/d2b693a6-cf32-484f-81a7-d2bd0c2c2850)
+
+
 10.Ahora, si la edad es mayor o igual a 18, muestra una alerta con el mensaje "¡Puede obtener su licencia de conducir!".
 ```javascript
 let edad = prompt('Digite su edad');
